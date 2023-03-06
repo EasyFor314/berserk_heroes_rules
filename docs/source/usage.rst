@@ -1,34 +1,9 @@
-Usage
-=====
+Правила
+=======
 
-.. _installation:
+Общие сведения об игре
+----------------------
 
-Installation
-------------
+«Берсерк. Герои» – коллекционная карточная игра, представляющая собой сражение героев при помощи существ, заклинаний и карт поддержки. Целью игры является победа вашего героя над героем противника.
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Игрок начинает игру с собственной колодой карт. Игроки делают ходы по очереди. В течение хода игрок может играть с руки свои карты, использовать способности своих карт (карт, находящихся под его контролем). Игрок обязан объявлять противнику каждую способность, которую он собирается выполнить и, при необходимости, указывать цель (цели).
