@@ -17,7 +17,6 @@ extensions = [
     "sphinx_inline_tabs",
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_search.extension',
 ]
 
 intersphinx_mapping = {
