@@ -1,3 +1,4 @@
 
+.. toctree::
 
-c1_rules
+   c1_rules
