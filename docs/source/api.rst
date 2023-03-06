@@ -1,5 +1,5 @@
 Терминология
-===
+============
 
 .. autosummary::
    :toctree: generated
