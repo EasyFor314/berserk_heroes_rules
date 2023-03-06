@@ -14,6 +14,7 @@ extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
+    "sphinx_inline_tabs",
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
@@ -28,7 +29,23 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = "furo"
+
+html_title = "Правила ККИ Берсерк. Герои"
+html_theme_options = {
+    "prev_next_buttons_location": "both",
+    "navigation_with_keys": True,
+    "top_of_page_button": None,
+    # "announcement": "",
+    "light_css_variables": {
+        "color-brand-primary": "#336790",  # "blue"
+        "color-brand-content": "#336790",
+    },
+    "dark_css_variables": {
+        "color-brand-primary": "#E5B62F",  # "yellow"
+        "color-brand-content": "#E5B62F",
+    },
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
