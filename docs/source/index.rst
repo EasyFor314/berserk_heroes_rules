@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
-===================================
+Коммиюнити правила ККИ Берсерк Герои
+====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Стратегическая настольная игра «Берсерк.Герои» – отечественная коллекционная карточная игра в жанре фэнтези, которая подойдет для игроков любого возраста. Благодаря оригинальности правил и регулярному выходу дополнений, в «Берсерк.Герои» можно играть бесконечное число раз, при этом каждая партия никогда не будет похожа на предыдущие.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
 
 .. note::
 
-   This project is under active development.
+   Этот проект находится в стадии активной разработки.
 
-Contents
+Содержание
 --------
 
 .. toctree::
 
    usage
-   api
+   dictionary
+   
+.. note::  
+
+   Все права на игру, её название и соответствующую продукцию, а также права на все сторонние материалы и информацию принадлежат их законным владельцам. Этот сайт не несет цели      присвоить чужую интеллектуальную или материальную собственность.
