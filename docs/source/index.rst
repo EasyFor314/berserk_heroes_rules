@@ -14,7 +14,7 @@
 
 .. toctree::
 
-   usage
+   rules
    dictionary
    
 .. warning::
