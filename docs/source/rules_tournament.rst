@@ -21,7 +21,7 @@
 .. image:: ./images/actual_sets.jpg
 
 .. error::
-  Баны
+  :title: Баны
   Леод, командор
   Циркут
   Орочий таран
