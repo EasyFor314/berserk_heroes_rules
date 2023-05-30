@@ -17,6 +17,7 @@
    rules
    dictionary
    rules_tournament
+   heroes_faq
    
    
 .. warning::
