@@ -6,7 +6,7 @@ project = 'Правила Берсерк Герои'
 author = 'EasyFor314'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.5.0'
 
 # -- General configuration
 
