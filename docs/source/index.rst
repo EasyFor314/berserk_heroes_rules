@@ -18,6 +18,7 @@
    dictionary
    rules_tournament
    heroes_faq
+   changelist
    
    
 .. warning::
