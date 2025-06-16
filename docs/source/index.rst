@@ -14,9 +14,7 @@
 
 .. toctree::
 
-   rules
    dictionary
-   heroes_faq
    changelist
    
    
